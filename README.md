@@ -65,3 +65,16 @@ The current dataset contains **50 annotated examples**.
 B.Tech Artificial Intelligence and Data Science Student
 
 Tamil Nadu, India
+
+## Quality Checks
+
+- Reviewed all 50 examples for missing values.
+- Checked that each response has a correctness label.
+- Verified that the selected better answer matches the evaluation reason.
+- Used consistent annotation labels across the dataset.
+
+## Limitations
+
+- This is a beginner-created demonstration dataset.
+- The examples are not independently verified by multiple annotators.
+- The dataset is intended for portfolio demonstration, not production AI training.
